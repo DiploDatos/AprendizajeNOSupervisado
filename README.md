@@ -7,10 +7,15 @@ filminas en https://sites.google.com/view/aprendizaje-no-supervisado/
 
 contenidos:
 
-- Reglas de Asociación
+- Reglas de Asociación 
 - Aprendizaje Semi-Supervisado
 - Clustering
 - Embeddings
+
+filminas:
+- <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Introducci%C3%B3n%20a%20Aprendizaje%20NO%20Supervisado.pdf">introducción</a>
+- <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Association%20Rules.pdf">Reglas de Asociación</a>
+- <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Semi-supervisado.pdf">Aprendizaje semi-supervisado</a>
 
 trabajo práctico:
 
