@@ -17,6 +17,9 @@ filminas:
 - <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Association%20Rules.pdf">Reglas de Asociación</a>
 - <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Semi-supervisado.pdf">Aprendizaje semi-supervisado</a>
 - <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Clustering.pdf">Clustering</a>
+- <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Embeddings.pdf">Embeddings</a>
+- <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20An%C3%A1lisis%20de%20Redes%20Sociales.pdf">Análisis de Redes Sociales</a>
+- <a href="https://github.com/DiploDatos/AprendizajeNOSupervisado/blob/master/DiploDatos%202019%20-%20Detecci%C3%B3n%20de%20Anomal%C3%ADas.pdf">Detección de Anomalías</a>
 
 trabajo práctico:
 
