@@ -1,4 +1,20 @@
+# AprendizajeNOSupervisado
+Curso de Aprendizaje NO Supervisado DiploDatos 2020
+
+Georgina Flesia, Laura Alonso Alemany, Valeria Rulloni 
+
+filminas en https://sites.google.com/view/aprendizaje-no-supervisado/
+
+Contenidos:
+- Clustering
+- Embeddings
+- Aprendizaje Semi-Supervisado
+- Reglas de Asociación 
+
+
+
 Práctico:
+
 Utilizar la base de jugadores “players_20.csv” disponible en la página de Kaggle https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv . Considerar que la base 2020 no tiene el mismo formato que la base vista en clase, a los nombres de las variables se les agregó una keyword para identificar a qué tipo de habilidad corresponde.
 
 Con la nueva base, realizar un análisis análogo al que realizamos en el cursado de la materia con los datos FIFA2019. Realice comentarios en cada parte (verbose=True ;))
