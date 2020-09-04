@@ -21,6 +21,8 @@ Clustering (con sus notebooks)
 Embeddings
 Análisis de Redes Sociales
 Detección de Anomalías
+
+
 trabajo práctico:
 
 Obtener reglas de asociación entre películas en el dataset movielens, al estilo de: https://rpubs.com/vitidN/203264 pero usando la notebook de reglas de asociación de Valeria
