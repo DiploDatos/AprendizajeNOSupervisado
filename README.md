@@ -1,5 +1,5 @@
 # AprendizajeNOSupervisado
-Curso de Aprendizaje NO Supervisado DiploDatos 2020
+Curso de Aprendizaje NO Supervisado DiploDatos
 
 Valeria Rulloni, Georgina Flesia, Laura Alonso Alemany
 
