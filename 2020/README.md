@@ -1,1 +1,13 @@
+Práctico:
+Utilizar la base de jugadores “players_20.csv” disponible en la página de Kaggle https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset?select=players_20.csv . Considerar que la base 2020 no tiene el mismo formato que la base vista en clase, a los nombres de las variables se les agregó una keyword para identificar a qué tipo de habilidad corresponde.
+
+Con la nueva base, realizar un análisis análogo al que realizamos en el cursado de la materia con los datos FIFA2019. Realice comentarios en cada parte (verbose=True ;))
+
+1- Análisis exploratorio (sintético, no muy extenso) .
+2- Evaluación visual  e intuitiva de a dos variables por vez.
+3- Uso de técnicas de clustering: kmedias, Dbscan, agregar alguna jerárquica vista en el teórico.
+4- Análisis de los clusters encontrados.
+5- Embeddings y técnicas de clustering.
+6- Evaluación.
+7- Pregunta: ¿Se realizó alguna normalización de la base? ¿Por qué ?
 
