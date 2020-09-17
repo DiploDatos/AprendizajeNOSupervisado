@@ -22,7 +22,7 @@ Con la nueva base, realizar un análisis análogo al que realizamos en el cursad
 
 2- Evaluación visual  e intuitiva de a dos variables por vez.
 
-3- Uso de técnicas de clustering: kmedias, Dbscan, agregar alguna jerárquica vista en el teórico.
+3- Uso de técnicas de clustering: k-Medias, Mean Shift, agregar DBSCAN o alguna jerárquica vista en el teórico.
 
 4- Análisis de los clusters encontrados.
 
