@@ -22,7 +22,7 @@ Con la nueva base, realizar un análisis análogo al que realizamos en el cursad
 
 2- Evaluación visual  e intuitiva de a dos variables por vez.
 
-3- Uso de técnicas de clustering: k-Medias, Mean Shift, agregar alguna jerárquica vista en el teórico (usar cityblock).
+3- Uso de técnicas de clustering: k-Medias, Mean Shift, agregar alguna jerárquica vista en el teórico (sugerencia: usar 'cityblock' como distancia en el jerárquico).
 
 4- Análisis de los clusters encontrados.
 
