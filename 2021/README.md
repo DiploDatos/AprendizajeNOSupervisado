@@ -12,10 +12,11 @@ Contenidos:
 - Reglas de Asociación 
 
 Coordinación de prácticos: Valeria Rulloni
-Prácticos: Milagro Teruel, Mario Agustín Sgró, Juan Nehuén Gonzalez Montoro, Rocío Fonseca, Facundo Garay
+
+Prácticos: Georgina Flesia, Valeria Rulloni, Mario Agustín Sgró, Juan Nehuén Gonzalez Montoro, Rocío Fonseca, Facundo Garay
 
 
-Práctico:
+Práctico entregable:
 
 Utilizar la base de jugadores “players_21.csv” disponible en la página de Kaggle https://www.kaggle.com/stefanoleone992/fifa-21-complete-player-dataset?select=players_21.csv. Considerar que la base 2021 no tiene el mismo formato que la base vista en clase, a los nombres de las variables se les agregó una keyword para identificar a qué tipo de habilidad corresponde.
 
