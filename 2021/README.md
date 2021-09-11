@@ -3,7 +3,7 @@ Curso de Aprendizaje NO Supervisado DiploDatos 2021º
 
 Teórico: Georgina Flesia, Laura Alonso Alemany
 
-filminas en https://sites.google.com/view/aprendizaje-no-supervisado/
+filminas en https://drive.google.com/drive/folders/1EIyOMU63eznlwzqqaD-7ZZU-pEOKaXQC?usp=sharing
 
 Contenidos:
 - Clustering
