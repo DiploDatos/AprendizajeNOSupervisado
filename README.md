@@ -3,7 +3,7 @@ Curso de Aprendizaje NO Supervisado DiploDatos
 
 Valeria Rulloni, Laura Alonso Alemany
 
-Archvos de la primer semana en: https://drive.google.com/drive/folders/1qJ8cYKJz_0-j-f-zvvr9RWFGLRj3H35L
+Archvos de clases en: https://drive.google.com/drive/folders/1qJ8cYKJz_0-j-f-zvvr9RWFGLRj3H35L
 
 Contenidos:
 - Clustering
